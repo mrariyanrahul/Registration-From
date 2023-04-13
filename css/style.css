@@ -1,0 +1,86 @@
+.container{
+	width: 1140px;
+	height: 300px;
+	background-color: orange;
+	margin: 50px;
+}
+
+/**************** css start here*********************/
+
+.login-box{
+	width: 40%;
+	margin: 50px auto;
+}
+
+.main-from{
+	width: 100%;
+	padding: 50px;
+	background: #eee;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+.main-from .avater-img{
+	width: 100%;
+	text-align: center;
+}
+
+.main-from .avater-img .avater{
+	width: 130px;
+	height: 130px;
+	border-radius: 5%;
+	border: 2px solid red;
+}
+
+.main-from h2{
+	font-size: 42px;
+	line-height: 52px;
+	color: red;
+	text-transform: uppercase;
+	font-weight: 400;
+	text-align: center;
+	margin: 20px 0px;
+}
+
+.main-from .from-group{
+	width: 100%;
+	margin: 15px 0px;
+}
+
+.main-from .from-group label{
+	display: block;
+	font-size: 14px;
+	line-height: 24px;
+	text text-transform: uppercase;
+	font-weight: 400;
+	margin: 0px 0px 5px;
+}
+
+.main-from .from-control{
+	width: 97%;
+	padding: 10px;
+	font-size: 13px;
+	border: 1px solid black;
+}
+
+.main-from .btn-btn{
+	padding: 15px 40px;
+	border: 1px solid black;
+	background: black;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin: 15px 0px 0px;
+	cursor: pointer;
+
+}
+
+.main-from .btn-btn:hover{
+	letter-spacing: 4px;
+	border: 1px solid black;
+	background: red;
+	color: whitesmoke;
+
+}
